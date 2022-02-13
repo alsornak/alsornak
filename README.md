@@ -5,6 +5,6 @@ I really enjoy learning languages and framework like WordPress.
 * 📱 interested in Design and Development
 * 👯 I'd like to work with you to share ideas for developing the code.
 * 📫 To reach me: sornakes@gmail.com
-* 🔍 view my portfolio: (https://alsornak.github.io/My_Portfolio/)  
+* 🔍 <a href = "https://alsornak.github.io/My_Portfolio/">view my portfolio</a>  
 
 #### Skills: NODE / JS / HTML / CSS
